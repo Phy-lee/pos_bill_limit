@@ -3,7 +3,7 @@
     'version': '1.0',
     'summary': 'Adds a Bill Print Limit for HR Employee',
     'author': 'Fillimon G.',
-    'category': 'Human Resources',
+    'category': 'Point of Sale',
     'depends': ['hr', 'point_of_sale','point_of_sale'],
     'data': [
         

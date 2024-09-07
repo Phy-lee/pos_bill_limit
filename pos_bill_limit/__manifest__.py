@@ -19,7 +19,7 @@
     },
     
     'images': [
-        'static/description/banner.jpg'
+        'static/description/banner.png'
         ],
     'price': 45,
     'currency': 'USD',

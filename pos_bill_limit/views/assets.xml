@@ -1,0 +1,7 @@
+<odoo>
+    <template id="assets_backend" inherit_id="point_of_sale.assets_common" name="Override PrintBillButton Logic">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/pos_bill_limit/static/src/js/PrintBillButtonOverride.js"/>
+        </xpath>
+    </template>
+</odoo>
